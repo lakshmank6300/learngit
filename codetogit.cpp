@@ -25,5 +25,6 @@ int main(){
         res+=arr[i][n/2];
     }
     res-=3*arr[n/2][n/2];
+    cout<<hoii;
     cout<<res;
 }
